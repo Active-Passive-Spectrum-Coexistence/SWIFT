@@ -1,2 +1,3 @@
 - [Paper Title](Link to the paper)
-- Example: [Author(s), "Title of the Paper," Conference Name, Year](http://link_to_the_paper.com)
+- Example: A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum 
+  Coexistence," in IEEE Access, vol. 12, pp. 131522-131540, 2024](http://10.1109/ACCESS.2024.3453774)
