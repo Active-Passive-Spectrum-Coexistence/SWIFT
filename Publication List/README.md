@@ -3,24 +3,24 @@
 - M. Koosha and N. Mastronarde, "On the RFI Induced on Space-borne Radiometers by Active Terrestrial Wireless Networks" in preparation.
 </p>
 <p align="justify"> 
-- W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted. (https://doi.org/10.48550/arXiv.2310.05271)
+- W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted. Link:(https://doi.org/10.48550/arXiv.2310.05271)
  </p>
 <p align="justify">
-- A. M. Alam, M. Kurum, M. Ogut and A. C. Gurbuz, "Microwave Radiometer Calibration Using Deep Learning with Reduced Reference Information and Two-Dimensional Spectral Features," submitted in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (https://ieeexplore.ieee.org/document/10318952)
+- A. M. Alam, M. Kurum, M. Ogut and A. C. Gurbuz, "Microwave Radiometer Calibration Using Deep Learning with Reduced Reference Information and Two-Dimensional Spectral Features," submitted in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Link:(https://ieeexplore.ieee.org/document/10318952)
 </p>
 <p align="justify"> 
-- M. M. Farhad, A. M. Alam, S. Biswas, M. A. S. Rafi, A. C. Gurbuz and M. Kurum, "SDR-Based Dual Polarized L-Band Microwave Radiometer Operating from Small UAS Platforms," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2024.3394054. (https://ieeexplore.ieee.org/document/10508892) 
+- M. M. Farhad, A. M. Alam, S. Biswas, M. A. S. Rafi, A. C. Gurbuz and M. Kurum, "SDR-Based Dual Polarized L-Band Microwave Radiometer Operating from Small UAS Platforms," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2024.3394054. Link:(https://ieeexplore.ieee.org/document/10508892) 
 </p>
 <p align="justify"> 
-- A. Owfi, A. Abbasi, F. Afghah, "Dynamic Online Modulation Recognition using Incremental Learning". (https://ieeexplore.ieee.org/document/10556007)
+- A. Owfi, A. Abbasi, F. Afghah, "Dynamic Online Modulation Recognition using Incremental Learning". Link:(https://ieeexplore.ieee.org/document/10556007)
 </p>
 
 **Accepted and Published**
 <p align="justify"> 
-- A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Access, vol. 12, pp. 131522-131540, 2024,doi: 10.1109/ACCESS.2024.3453774.(https://ieeexplore.ieee.org/document/10663400)
+- A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Access, vol. 12, pp. 131522-131540, 2024,doi: 10.1109/ACCESS.2024.3453774.Link:(https://ieeexplore.ieee.org/document/10663400)
 </p>
 <p align="justify"> 
-- A. M. Alam, A. C. Gurbuz, and M. Kurum, "High-Resolution Radio Frequency Interference Detection In Microwave Radiometry Using Deep Learning," in IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, 2023.(https://ieeexplore.ieee.org/document/10281401) 
+- A. M. Alam, A. C. Gurbuz, and M. Kurum, "High-Resolution Radio Frequency Interference Detection In Microwave Radiometry Using Deep Learning," in IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, 2023.Link:(https://ieeexplore.ieee.org/document/10281401) 
 </p>
 <p align="justify"> 
 - M. M. Farhad, S. Biswas, A. M. Alam, A. C. Gurbuz, and M. Kurum, "SDR Based Agile Radiometer With Onboard RFI Processing On  A Small UAS," in IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, 2023. (https://ieeexplore.ieee.org/document/10282140) 
