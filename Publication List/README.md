@@ -44,7 +44,7 @@
   Areas”, IEEE ICC Workshop on Integrating UAVs into 5G and Beyond, July 2021.
 - Shamsoshoara, F. Afghah, E. Blasch, J. Ashdown, and M. Bennis, "UAV-assisted Communication in Remote Disaster Areas using 
   Imitation Learning”, IEEE Open Journal of the Communication Society, Special Issue on Aerial Wireless Networks: Drones for 
-  Communications and Communications for Drones, March 2021. (https://ieeexplore.ieee.org/document/10663400)
+  Communications and Communications for Drones, March 2021.
 - A. S. Abdalla and V. Marojevic, "Communications Standards for Unmanned Aircraft Systems: The 3GPP Perspective and Research 
   Drivers," IEEE Communications Standards Magazine, Vol. 5, Iss. 1, pp. 70-77, March 2021. 
 - M. M. Farhad , S. Biswas, M. A. S. Rafi, A. Gurbuz, and M. Kurum, "Design and Implementation of a Software Defined Radio- 
