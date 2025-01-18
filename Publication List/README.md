@@ -1,11 +1,14 @@
 **Submitted or in preparation**
-<p align="justify"> 
+<p align="justify"> </p>
 - W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted.
+  </p>
+  <p align="justify"> 
 - M. Koosha and N. Mastronarde, "On the RFI Induced on Space-borne Radiometers by Active Terrestrial Wireless Networks" in preparation.
+    </p>
 - A. M. Alam, M. Kurum, M. Ogut and A. C. Gurbuz, "Microwave Radiometer Calibration Using Deep Learning with Reduced Reference Information and Two-Dimensional Spectral Features,"  submitted in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - M. M. Farhad, A. M. Alam, S. Biswas, M. A. S. Rafi, A. C. Gurbuz and M. Kurum, "SDR-Based Dual Polarized L-Band Microwave Radiometer Operating from Small UAS Platforms," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2024.3394054. 
 - A. Owfi, A. Abbasi, F. Afghah, "Dynamic Online Modulation Recognition using Incremental Learning".
-</p>
+
 **Accepted**
 <p align="justify"> 
 - A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum 
