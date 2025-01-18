@@ -17,7 +17,7 @@
 
 **Accepted and Published**
 <p align="justify"> 
-- A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Access, vol. 12, pp. 131522-131540, 2024,- [Exploring the Limits of Deep Learning in Computer Vision](https://www.example.com)
+- A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Access, vol. 12, pp. 131522-131540, 2024,- [Exploring the Limits of Deep Learning in Computer Vision](10.1109/ACCESS.2024.3453774)
  (doi: 10.1109/ACCESS.2024.3453774.)
 </p>
 <p align="justify"> 
