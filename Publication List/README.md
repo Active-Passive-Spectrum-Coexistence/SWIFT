@@ -1,10 +1,10 @@
 **Submitted or in preparation**
 <p align="justify"> 
-- W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted. (https://doi.org/10.48550/arXiv.2310.05271)
- </p>
-  <p align="justify"> 
 - M. Koosha and N. Mastronarde, "On the RFI Induced on Space-borne Radiometers by Active Terrestrial Wireless Networks" in preparation.
 </p>
+<p align="justify"> 
+- W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted. (https://doi.org/10.48550/arXiv.2310.05271)
+ </p>
 <p align="justify">
 - A. M. Alam, M. Kurum, M. Ogut and A. C. Gurbuz, "Microwave Radiometer Calibration Using Deep Learning with Reduced Reference Information and Two-Dimensional Spectral Features," submitted in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (https://ieeexplore.ieee.org/document/10318952)
 </p>
