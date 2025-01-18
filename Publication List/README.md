@@ -17,7 +17,8 @@
 
 **Accepted and Published**
 <p align="justify"> 
-- A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Access, vol. 12, pp. 131522-131540, 2024, (doi: 10.1109/ACCESS.2024.3453774.)
+- A. M. Alam et al., "A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Access, vol. 12, pp. 131522-131540, 2024,- [Exploring the Limits of Deep Learning in Computer Vision](https://www.example.com)
+ (doi: 10.1109/ACCESS.2024.3453774.)
 </p>
 <p align="justify"> 
 - A. M. Alam, A. C. Gurbuz, and M. Kurum, "High-Resolution Radio Frequency Interference Detection In Microwave Radiometry Using Deep Learning," in IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, 2023. 
