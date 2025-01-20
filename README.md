@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9159e324-03f6-4c25-8421-8e9d04c88d95)
+
 # SWIFT (Award Number:	2030291)
 Collaborative Research: AI-Enabled Spectrum Coexistence between Active Communications and Passive Radio Services: Fundamentals, Testbed and Data
 
