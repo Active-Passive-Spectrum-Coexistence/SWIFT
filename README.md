@@ -5,7 +5,7 @@
 # SWIFT (Award Number:	2030291)
 Collaborative Research: AI-Enabled Spectrum Coexistence between Active Communications and Passive Radio Services: Fundamentals, Testbed and Data
 
-# Team Information: 
+# Meet the Team: 
 https://sites.google.com/view/swift-ai-spectrum/team
 
 # Project Overview
