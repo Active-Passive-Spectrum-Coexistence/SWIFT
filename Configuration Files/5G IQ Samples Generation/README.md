@@ -1,4 +1,4 @@
-# README: 5G IQ Sample Generation and Transmission
+# 5G IQ Sample Generation and Transmission
 
 ## Overview
 This folder provides MATLAB code for generating 5G downlink waveform IQ samples, converting them into binary format, and transmitting them over the air using GNU Radio and USRP. The generated IQ samples are compatible with GNU Radio, where a custom flowgraph reads the binary file and facilitates over-the-air transmission at specified frequencies and gain levels.
