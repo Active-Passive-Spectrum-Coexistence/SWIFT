@@ -12,7 +12,7 @@
 - M. M. Farhad, A. M. Alam, S. Biswas, M. A. S. Rafi, A. C. Gurbuz and M. Kurum, "SDR-Based Dual Polarized L-Band Microwave Radiometer Operating from Small UAS Platforms," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2024.3394054.(https://ieeexplore.ieee.org/document/10508892) 
 </p>
 <p align="justify"> 
-- A. Owfi, A. Abbasi, F. Afghah, "Dynamic Online Modulation Recognition using Incremental Learning"(https://ieeexplore.ieee.org/document/10556007)
+- A Bamdad, A Owfi, F Afghah, Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification (https://arxiv.org/abs/2501.01620)
 </p>
 
 **Accepted and Published**
@@ -82,3 +82,12 @@
 <p align="justify"> 
 - A. Owfi, CC. Lin, L. Guo, F. Afghah, J. Ashdown, K. Turck, "A Meta-learning based Generalizable Indoor Localization Model using Channel State Information", IEEE Global Communications (GLOBECOM) 2023. (https://ieeexplore.ieee.org/document/10436827)
   </p>
+
+<p align="justify"> 
+- A. Owfi, A. Abbasi, F. Afghah, "Dynamic Online Modulation Recognition using Incremental Learning",  International Conference on Computing, Networking and Communication (ICNC) 2024. (https://ieeexplore.ieee.org/xpl/conhome/10555566/proceeding)
+  </p>
+<p align="justify"> 
+- A. Owfi, J. Ashdown, K. Turck, F. Afghah, Online Meta-Learning Channel Autoencoder for Dynamic End-to-end Physical Layer Optimization, IEEE Wireless Communications and Networking Conference (WCNC) 2025. (https://www.arxiv.org/abs/2501.01608)
+  </p>
+
+  
