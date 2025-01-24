@@ -1,6 +1,9 @@
 **Submitted or in preparation**
 <p align="justify"> 
-- M. Koosha and N. Mastronarde, "On the RFI Induced on Space-borne Radiometers by Active Terrestrial Wireless Networks" in preparation.
+- M. Koosha and N. Mastronarde, "On the RFI Induced on Space-borne Radiometers by Active Terrestrial Wireless Networks" [ in preparation].
+</p>
+<p align="justify"> 
+Walaa H Alqwider, Aly Sabri, Talha Faizur Rahman, Vuk Marojevic, “Multi-Agent Deep Reinforcement Learning for Resource Management and UAV Positioning of Integrated Aerial-Terrestrial Cellular Networks” [ in preparation].
 </p>
 <p align="justify"> 
 - W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted. (https://doi.org/10.48550/arXiv.2310.05271)
@@ -9,10 +12,13 @@
 - A Bamdad, A Owfi, F Afghah, Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification (https://arxiv.org/abs/2501.01620)
 </p>
 
-**Accepted and Published**
+**Accepted or Published**
 <p align="justify"> 
-- A. Owfi, J. Ashdown, K. Turck, F. Afghah, Online Meta-Learning Channel Autoencoder for Dynamic End-to-end Physical Layer Optimization, IEEE Wireless Communications and Networking Conference (WCNC) 2025. (https://www.arxiv.org/abs/2501.01608)
-  </p>
+- A. Owfi, J. Ashdown, K. Turck, F. Afghah, “Online Meta-Learning Channel Autoencoder for Dynamic End-to-end Physical Layer Optimization”, IEEE Wireless Communications and Networking Conference (WCNC) 2025. (https://www.arxiv.org/abs/2501.01608)
+ </p>
+<p align="justify"> 
+- M. Koosha and N. Mastronarde, "Sensing Outage Probability of Space-borne Passive Radiometry in Coexistence with an Active Terrestrial Network," in Proceedings of  the  19th European Conference on Antennas and Propagation (EuCAP 2025), Florence, Italy, March–April 2025.
+ </p>
 <p align="justify">
 - A. M. Alam, M. Kurum, M. Ogut and A. C. Gurbuz, "Microwave Radiometer Calibration Using Deep Learning With Reduced Reference Information and 2-D Spectral Features," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 748-765, 2024, doi: 10.1109/JSTARS.2023.3333268. (https://ieeexplore.ieee.org/document/10318952)
 </p>
@@ -24,7 +30,7 @@
 </p>
 <p align="justify"> 
 - A. Owfi, A. Abbasi, F. Afghah, J. Ashdown and K. Turck, "Dynamic Online Modulation Recognition using Incremental Learning," 2024 International Conference on Computing, Networking and Communications (ICNC), Big Island, HI, USA, 2024, pp. 412-416, doi: 10.1109/ICNC59896.2024.10556007. (https://ieeexplore.ieee.org/document/10556007)
-  </p>
+ </p>
 <p align="justify"> 
 - A. M. Alam, A. C. Gurbuz, and M. Kurum, "High-Resolution Radio Frequency Interference Detection In Microwave Radiometry Using Deep Learning," in IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, 2023.(https://ieeexplore.ieee.org/document/10281401) 
 </p>
@@ -52,7 +58,7 @@
 </p>
 <p align="justify"> 
 - A. Owfi, C. Lin, L. Guo, F. Afghah, J. Ashdown and K. Turck, "A Meta-learning based Generalizable Indoor Localization Model using Channel State Information," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 4607-4612, doi: 10.1109/GLOBECOM54140.2023.10436827. (https://ieeexplore.ieee.org/document/10436827)
-  </p>
+ </p>
 <p align="justify"> 
 - A. M. Alam, M. Kurum and A. C. Gurbuz, "Radio Frequency Interference Detection for SMAP Radiometer Using Convolutional Neural Networks," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 10099- 10112, 2022, doi: 10.1109/JSTARS.2022.3223198. (https://ieeexplore.ieee.org/document/9954900)
 </p>
