@@ -6,10 +6,10 @@
 Walaa H Alqwider, Aly Sabri, Talha Faizur Rahman, Vuk Marojevic, “Multi-Agent Deep Reinforcement Learning for Resource Management and UAV Positioning of Integrated Aerial-Terrestrial Cellular Networks” [ in preparation].
 </p>
 <p align="justify"> 
-- W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted. (https://doi.org/10.48550/arXiv.2310.05271)
+- W. Alqwider, A. S. Abdalla and V. Marojevic "5G Advanced: Wireless Channel Virtualization and Resource Mapping for Real Time Spectrum Sharing," submitted. Preprint: (https://doi.org/10.48550/arXiv.2310.05271)
  </p>
 <p align="justify"> 
-- A Bamdad, A Owfi, F Afghah, Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification (https://arxiv.org/abs/2501.01620)
+- A Bamdad, A Owfi, F. Afghah, “Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification”,  Submitted on 03 Jan, 2025. Preprint: (https://arxiv.org/abs/2501.01620)
 </p>
 
 **Accepted or Published**
