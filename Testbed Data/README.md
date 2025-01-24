@@ -1,5 +1,8 @@
 # README for 5G-Transmitted IQ Samples Dataset
 
+## Data Storage
+![Data Format](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/ed6d8b6f-4fc2-4281-95be-976d9c28fca5)
+
 ## Overview
 This dataset contains IQ samples received by a radiometer, derived from experiments with 5G-transmitted waveforms under various scenarios. These experiments were conducted to facilitate the research on spectrum coexistence between active wireless communication systems and passive sensing technologies.
 
