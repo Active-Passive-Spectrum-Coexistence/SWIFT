@@ -76,6 +76,26 @@ OneDrive/
 
 ---
 
+### Dependencies
+
+- **Python**: Version 3.8+
+- **Key Libraries**:
+  - `h5py`: For HDF5 file handling.
+  - `numpy`: For numerical processing.
+  - `matplotlib`: For data visualization.
+  - `pandas`: For data management.
+  - `glob` and `os`: For file system operations.
+  - `re`: For regular expressions and numerical sorting.
+
+### Install Dependencies
+
+Run the following command to install all the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
 ## Citation
 If you use this dataset in your research, please cite:
 > Alam, A.M., et al. (2024). *Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence*. IEEE Access. DOI: [10.1109/ACCESS.2024.3453774](https://doi.org/10.1109/ACCESS.2024.3453774)
